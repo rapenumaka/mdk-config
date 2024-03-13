@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "loan-service-prod"
+  profiles:
+    active: "prod"
